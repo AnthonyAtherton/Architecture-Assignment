@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\bin\Prototype_0.dll
+c:\users\david\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\bin\Prototype_0.pdb
+c:\users\david\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\obj\Debug\Prototype_0.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\obj\Debug\Prototype_0.dll
+c:\users\david\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\obj\Debug\Prototype_0.pdb
+C:\Users\David\documents\visual studio 2012\Projects\Prototype_0\Prototype_0\bin\AjaxControlToolkit.dll
